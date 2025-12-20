@@ -1,1 +1,1 @@
-# guide-for-self-learning
+# Guide for self learning
