@@ -1,0 +1,8 @@
+---
+title: "Préciser ses objectifs"
+#description: "Are you ready ?"
+#format: revealjs
+---
+
+## Points clés
+

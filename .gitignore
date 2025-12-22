@@ -1,0 +1,28 @@
+# =========================
+# Quarto / Build outputs
+# =========================
+_site/
+.quarto/
+
+/.quarto/
+**/*.quarto_ipynb
+
+# =========================
+# Cache & temporary files
+# =========================
+**/.quarto-cache/
+**/.cache/
+*.log
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json

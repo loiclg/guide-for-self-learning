@@ -1,0 +1,17 @@
+---
+title: "Learning to Learn Guide"
+subtitle: "A structured 9-part journey"
+---
+
+## Welcome
+
+This guide walks you through your learning journey, from initial overview to final certification of your skills.
+
+---
+
+## 📑 The 9 Parts of the Guide
+
+### Part 0️⃣: Overview
+
+**[Overview](00-overview/index.qmd)** 🚀 *Work in progress*  
+Understand the modern learning landscape and choose your approach

@@ -1,0 +1,10 @@
+---
+title: "Bienvenue / Welcome"
+subtitle: "Guide pour apprendre par soi-même / Learning to Learn Guide"
+---
+
+Ce document présente un guide pour apprendre efficacement par soi-même. <br>
+[🇫🇷 Version Française](fr/index.qmd)
+
+This document presents a guide for learning effectively on your own. <br>
+[🇬🇧 English version](en/index.qmd)

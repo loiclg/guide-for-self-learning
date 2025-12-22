@@ -1,0 +1,78 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "*.svg"
+
+website:
+  title: "Self-learning Guide"
+
+  # navbar:
+  #   background: primary
+  #   left:
+  #     - text: !expr if (params.lang == "fr") "Accueil" else "Home"
+  #       href: index.qmd
+  #   right:
+  #     - icon: globe
+  #       text: "Langue / Language"
+  #       menu:
+  #         - text: "🇫🇷 Français"
+  #           href: fr/index.qmd
+  #         - text: "🇬🇧 English"
+  #           href: en/index.qmd
+
+
+  sidebar:
+    - id: fr-sidebar
+      title: "Guide d'Apprentissage"
+      style: "floating"
+      contents:
+        - text: "🏠 Accueil"
+          href: fr/index.qmd
+        - text: "---"
+        - section: "📑 Le guide"
+          contents:
+            - text: "Tour d'horizon"
+              href: fr/00-tour-d-horizon/index.qmd
+            - text: "1. Se préparer"
+              href: fr/01-se-preparer/index.qmd     
+            - text: "2. Préciser ses objectifs"
+              href: fr/02-preciser-ses-objectifs/index.qmd
+
+    - id: en-sidebar
+      title: "Learning Guide"
+      style: "floating"
+      contents:
+        - text: "🏠 Home"
+          href: en/index.qmd
+        - text: "---"
+        - section: "📑 Guide parts"
+          contents:
+            - text: "0. Overview"
+              href: en/00-overview/index.qmd
+
+page-footer:
+    left: "Guide d'apprentissage / Learning Guide"
+    center: |
+      💬 [Partagez vos retours](https://github.com/VOTRE-USERNAME/VOTRE-REPO/issues)
+    right: "Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+
+format:
+  html:
+    theme: cosmo
+    #toc: true
+    #toc-depth: 2
+    link-external-newwindow: true
+    self-contained: false
+
+revealjs:
+    theme: moon
+    slide-number: true
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    controls: true
+    navigation-mode: linear
+    touch: true
+    view-distance: 3
+    mobile-view-distance: 2
