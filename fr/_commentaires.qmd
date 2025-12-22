@@ -1,0 +1,14 @@
+<br><hr>
+
+<div style="text-align: center; margin: 2em 0;">
+  <button 
+    data-tally-open="VLjDpE" 
+    data-tally-emoji-text="💬" 
+    data-tally-emoji-animation="wave"
+    style="padding: 6px 12px; background: #8f8f8fff; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px;">
+    Laisser un commentaire
+  </button>
+</div>
+<script>
+  var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally&&Tally.loadEmbeds()};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}
+</script>

@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Self-learning Guide"
+ 
 
   # navbar:
   #   background: primary
@@ -64,15 +65,7 @@ format:
     #toc-depth: 2
     link-external-newwindow: true
     self-contained: false
-
-revealjs:
-    theme: moon
-    slide-number: true
-    chalkboard: 
-      buttons: true
-    preview-links: auto
-    controls: true
-    navigation-mode: linear
-    touch: true
-    view-distance: 3
-    mobile-view-distance: 2
+    #include-after-body: footer.html
+    comments:
+      hypothesis: true      
+    #include-in-header: hypothesis-config.html

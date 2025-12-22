@@ -1,7 +1,7 @@
 ---
 title: "Tour d’horizon"
 description: "Comprendre l’objectif du guide et sa structure"
-# format: revealjs
+
 ---
 
 
@@ -28,3 +28,6 @@ Chaque étape est présentée dans les parties suivantes de ce document. Avec un
 
 
 ### Commencez par [Se préparer](../01-se-preparer/)
+
+
+{{< include /fr/_commentaires.qmd >}}

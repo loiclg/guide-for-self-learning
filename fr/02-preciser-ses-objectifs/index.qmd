@@ -6,3 +6,4 @@ title: "Préciser ses objectifs"
 
 ## Points clés
 
+{{< include /fr/_commentaires.qmd >}}

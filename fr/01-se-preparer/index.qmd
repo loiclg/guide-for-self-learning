@@ -27,3 +27,5 @@ Le deuxième aspect est l’organisation personnelle. Combien de temps peut-on a
 
 ## Pret ? Passer à la suite
 * ### Préciser ses objectifs
+
+{{< include /fr/_commentaires.qmd >}}
