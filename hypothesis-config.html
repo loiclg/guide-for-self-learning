@@ -1,12 +1,53 @@
 <script>
 window.hypothesisConfig = function () {
-  var pageLang = document.documentElement.lang || 'fr';
+  // Détecter la langue de la page automatiquement
+  var pageLang = 'fr'; //document.documentElement.lang || 'fr';
+  var hypothesisLang = 'fr'; //pageLang.split('-')[0];
+  
   return {
-    locale: pageLang.split('-')[0],
-    showHighlights: 'always',
+    // Langue automatique selon la page
+    locale: 'fr', //hypothesisLang,
+    
+    // Interface
+    openSidebar: false,              // Ne pas ouvrir automatiquement
+    showHighlights: 'whenSidebarOpen',        // Toujours afficher les annotations
+    
+    // Design moderne
     branding: {
-      ctaBackgroundColor: '#2563eb'
-    }
+      appBackgroundColor: '#ffffff',
+      ctaBackgroundColor: '#2563eb', // Bleu moderne
+      ctaTextColor: '#ffffff',
+      selectionFontFamily: 'system-ui, -apple-system, "Segoe UI", sans-serif'
+    },
+    
+    // Thème (clair par défaut)
+    theme: 'classic',
+    
+    // Services Hypothesis
+    services: [{
+      apiUrl: 'https://hypothes.is/api/',
+      authority: 'hypothes.is'
+    }]
   };
 };
+
+// Vérifier que la config est appelée
+console.log('hypothesisConfig défini:', typeof window.hypothesisConfig);
 </script>
+
+<style>
+/* Personnalisation du bouton et de l'interface */
+.hypothesis-adder {
+  border-radius: 8px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.hypothesis-sidebar {
+  transition: transform 0.3s ease-in-out !important;
+}
+
+/* Animation des highlights */
+.hypothesis-highlight {
+  transition: background-color 0.2s ease !important;
+}
+</style>

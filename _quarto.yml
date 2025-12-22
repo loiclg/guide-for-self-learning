@@ -1,11 +1,10 @@
 project:
   type: website
   output-dir: _site
-  resources:
-    - "*.svg"
 
 website:
   title: "Self-learning Guide"
+
  
 
   # navbar:
@@ -66,6 +65,6 @@ format:
     link-external-newwindow: true
     self-contained: false
     #include-after-body: footer.html
+    include-in-header: hypothesis-config.html
     comments:
-      hypothesis: true      
-    #include-in-header: hypothesis-config.html
+      hypothesis: true          
