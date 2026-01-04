@@ -1,0 +1,11 @@
+---
+title: "Contribuer à l'évolution de ce guide"
+---
+
+Voici comment contribuer à ce guide.
+
+Simple : en bas de page, cliquer sur le bouton laisser un commentaire
+
+Plus élaboré :  Ouvrir le menu en haut à droite en cliquant sur la fleche, puis cliquer sur "Annotations".
+
+Avancé : en pied de page, cliquer sur "Faire part d'un problème" pour expliquer une modification, ou "Modifer cette page" pour proposer une modification.

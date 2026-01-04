@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Self-learning Guide"
+  repo-url: https://github.com/loiclg/guide-for-self-learning
+  repo-actions: [edit, issue]  
 
  
 
@@ -30,14 +32,17 @@ website:
         - text: "🏠 Accueil"
           href: fr/index.qmd
         - text: "---"
-        - section: "📑 Le guide"
+        - section: "▶️ Les étapes"
           contents:
-            - text: "Tour d'horizon"
-              href: fr/00-tour-d-horizon/index.qmd
-            - text: "1. Se préparer"
-              href: fr/01-se-preparer/index.qmd     
-            - text: "2. Préciser ses objectifs"
-              href: fr/02-preciser-ses-objectifs/index.qmd
+            - text: "1. Préciser ses objectifs"
+              href: fr/01-preciser-ses-objectifs/index.qmd     
+            - text: "2. Préparer le plan"
+              href: fr/02-preparer-le-plan/index.qmd
+        - text: "---"
+        - text: "📑 Présentation du guide"
+          href: fr/00-presentation/index.qmd
+        - text: "💡 Contribuer"
+          href: fr/00-presentation/contribs.qmd
 
     - id: en-sidebar
       title: "Learning Guide"
@@ -51,11 +56,11 @@ website:
             - text: "0. Overview"
               href: en/00-overview/index.qmd
 
-page-footer:
-    left: "Guide d'apprentissage / Learning Guide"
-    center: |
-      💬 [Partagez vos retours](https://github.com/VOTRE-USERNAME/VOTRE-REPO/issues)
-    right: "Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+#page-footer:
+#    left: "Guide d'apprentissage / Learning Guide"
+#    center: |
+#      💬 [Partagez vos retours](https://github.com/VOTRE-USERNAME/VOTRE-REPO/issues)
+#    right: "Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 format:
   html:
