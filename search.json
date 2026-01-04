@@ -4,50 +4,68 @@
     "href": "index.html",
     "title": "Bienvenue / Welcome",
     "section": "",
-    "text": "Ce document présente un guide pour apprendre efficacement par soi-même.  🇫🇷 Version Française\nThis document presents a guide for learning effectively on your own.  🇬🇧 English version"
+    "text": "Ce document présente un guide pour apprendre efficacement par soi-même à l’ère de l’IA.  🇫🇷 Version Française\nThis document presents a guide for learning effectively on your own in the age of AI.  🇬🇧 English version"
   },
   {
-    "objectID": "fr/02-preciser-ses-objectifs/index.html",
-    "href": "fr/02-preciser-ses-objectifs/index.html",
+    "objectID": "fr/02-preparer-le-plan/index.html",
+    "href": "fr/02-preparer-le-plan/index.html",
     "title": "Préciser ses objectifs",
     "section": "",
     "text": "Laisser un commentaire",
     "crumbs": [
-      "📑 Le guide",
-      "2. Préciser ses objectifs"
+      "▶️ Les étapes",
+      "2. Préparer le plan"
     ]
   },
   {
-    "objectID": "fr/02-preciser-ses-objectifs/index.html#points-clés",
-    "href": "fr/02-preciser-ses-objectifs/index.html#points-clés",
+    "objectID": "fr/02-preparer-le-plan/index.html#points-clés",
+    "href": "fr/02-preparer-le-plan/index.html#points-clés",
     "title": "Préciser ses objectifs",
     "section": "",
     "text": "Laisser un commentaire",
     "crumbs": [
-      "📑 Le guide",
-      "2. Préciser ses objectifs"
+      "▶️ Les étapes",
+      "2. Préparer le plan"
     ]
   },
   {
-    "objectID": "fr/00-tour-d-horizon/index.html",
-    "href": "fr/00-tour-d-horizon/index.html",
-    "title": "Tour d’horizon",
+    "objectID": "fr/00-presentation/index.html",
+    "href": "fr/00-presentation/index.html",
+    "title": "Présentation du guide",
     "section": "",
-    "text": "Image en pleine résolution \n\nL’apprentissage est composé de huit étapes, une générale (se préparer), trois pour faire son plan d’apprentissage (préciser les objectifs, rechercher les informations, organiser son apprentissage), et quatre pour l’apprentissage lui-même (suivre les cours, apprendre, échanger, passer un examen).\nL’ordre des étapes donne une direction générale. Rien n’empêche de revenir en arrière ou de faire des sauts entre les étapes pour affiner et améliorer chacune. Par exemple, on peut revenir sur les objectifs pour les ajuster lors de l’apprentissage.\nChaque étape est présentée dans les parties suivantes de ce document. Avec une explication sur l’utilisation possible de l’IA.\n\nCommencez par Se préparer\n\n\n\n Laisser un commentaire",
+    "text": "Ce site présente un guide pour apprendre efficacement par soi-même sous forme de carte mentale (mindmap). Il s’agit d’un recueil de bonnes pratiques, basé en bonne partie sur le cours en ligne du Dr Oakley et complété par d’autres, organisé par étape pour guider l’apprentissage personnel.",
     "crumbs": [
-      "📑 Le guide",
-      "Tour d'horizon"
+      "📑 Présentation du guide"
     ]
   },
   {
-    "objectID": "en/00-overview/index.html",
-    "href": "en/00-overview/index.html",
-    "title": "Overview",
-    "section": "",
-    "text": "english test",
+    "objectID": "fr/00-presentation/index.html#pourquoi",
+    "href": "fr/00-presentation/index.html#pourquoi",
+    "title": "Présentation du guide",
+    "section": "Pourquoi ?",
+    "text": "Pourquoi ?\nÀ l’ère de l’IA, apprendre avec agilité est une compétence clé pour suivre l’évolution rapide des pratiques et des métiers. Savoir gérer son propre apprentissage devient alors une compétence du même ordre que savoir s’organiser ou savoir communiquer sur ses missions.",
     "crumbs": [
-      "📑 Guide parts",
-      "0. Overview"
+      "📑 Présentation du guide"
+    ]
+  },
+  {
+    "objectID": "fr/00-presentation/index.html#quel-but",
+    "href": "fr/00-presentation/index.html#quel-but",
+    "title": "Présentation du guide",
+    "section": "Quel but ?",
+    "text": "Quel but ?\nL’objectif de ce guide est de proposer un cadre visuel pour servir de repère et partager les bonnes pratiques, en incluant les apports de l’IA pour cela. La vocation de ce guide est d’être évolutif afin de s’adapter et d’être amélioré autant que nécessaire par retour d’expérience. Voici comment contribuer.",
+    "crumbs": [
+      "📑 Présentation du guide"
+    ]
+  },
+  {
+    "objectID": "fr/00-presentation/index.html#comment",
+    "href": "fr/00-presentation/index.html#comment",
+    "title": "Présentation du guide",
+    "section": "Comment ?",
+    "text": "Comment ?\nL’apprentissage est composé de plusieurs étapes (en bleu et vert), chacune ayant des actions (en jaune), et des pratiques associées (par exemple, Apprendre -&gt; Se tester -&gt; utiliser des flashcards).\nL’ordre des étapes donne une direction générale. Rien n’empêche de revenir en arrière ou de faire des sauts entre les étapes pour affiner et améliorer chacune. Par exemple, revenir sur les objectifs pour les ajuster lors de l’apprentissage.\n\n\n\n\n\n\nLes étapes\n\n\n\n\n\n\n\nLe guide complet\n\n\n\n\n\nCommencez\n\n\n\n Laisser un commentaire",
+    "crumbs": [
+      "📑 Présentation du guide"
     ]
   },
   {
@@ -81,58 +99,79 @@
     ]
   },
   {
-    "objectID": "fr/01-se-preparer/index.html",
-    "href": "fr/01-se-preparer/index.html",
+    "objectID": "en/00-overview/index.html",
+    "href": "en/00-overview/index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "english test",
+    "crumbs": [
+      "📑 Guide parts",
+      "0. Overview"
+    ]
+  },
+  {
+    "objectID": "fr/00-presentation/contribs.html",
+    "href": "fr/00-presentation/contribs.html",
+    "title": "Contribuer à l’évolution de ce guide",
+    "section": "",
+    "text": "Voici comment contribuer à ce guide.\nSimple : en bas de page, cliquer sur le bouton laisser un commentaire\nPlus élaboré : Ouvrir le menu en haut à droite en cliquant sur la fleche, puis cliquer sur “Annotations”.\nAvancé : en pied de page, cliquer sur “Faire part d’un problème” pour expliquer une modification, ou “Modifer cette page” pour proposer une modification.",
+    "crumbs": [
+      "💡 Contribuer"
+    ]
+  },
+  {
+    "objectID": "fr/01-preciser-ses-objectifs/index.html",
+    "href": "fr/01-preciser-ses-objectifs/index.html",
     "title": "Se préparer",
     "section": "",
     "text": "Pour se préparer, avant de se lancer dans un apprentissage, deux aspects sont à considérer: sa motivation (l’état d’esprit) et l’organisation pour les apprentissages.",
     "crumbs": [
-      "📑 Le guide",
-      "1. Se préparer"
+      "▶️ Les étapes",
+      "1. Préciser ses objectifs"
     ]
   },
   {
-    "objectID": "fr/01-se-preparer/index.html#points-clés",
-    "href": "fr/01-se-preparer/index.html#points-clés",
+    "objectID": "fr/01-preciser-ses-objectifs/index.html#points-clés",
+    "href": "fr/01-preciser-ses-objectifs/index.html#points-clés",
     "title": "Se préparer",
     "section": "",
     "text": "Pour se préparer, avant de se lancer dans un apprentissage, deux aspects sont à considérer: sa motivation (l’état d’esprit) et l’organisation pour les apprentissages.",
     "crumbs": [
-      "📑 Le guide",
-      "1. Se préparer"
+      "▶️ Les étapes",
+      "1. Préciser ses objectifs"
     ]
   },
   {
-    "objectID": "fr/01-se-preparer/index.html#se-motiver",
-    "href": "fr/01-se-preparer/index.html#se-motiver",
+    "objectID": "fr/01-preciser-ses-objectifs/index.html#se-motiver",
+    "href": "fr/01-preciser-ses-objectifs/index.html#se-motiver",
     "title": "Se préparer",
     "section": "Se motiver",
     "text": "Se motiver\n\nLe premier aspect, le plus important car c’est le moteur personnel de l’apprentissage”, c’est l’état d’esprit et la motivation. Pour cela, le but de l’apprentissage doit être clair. Le but est la destination et l’apprentissage, le voyage.\nPour ce dernier, persévérance et adaptation sont les capacités clés pour réussir (s’adapter = être capable de remettre en question ses connaissances passées).",
     "crumbs": [
-      "📑 Le guide",
-      "1. Se préparer"
+      "▶️ Les étapes",
+      "1. Préciser ses objectifs"
     ]
   },
   {
-    "objectID": "fr/01-se-preparer/index.html#sorganiser",
-    "href": "fr/01-se-preparer/index.html#sorganiser",
+    "objectID": "fr/01-preciser-ses-objectifs/index.html#sorganiser",
+    "href": "fr/01-preciser-ses-objectifs/index.html#sorganiser",
     "title": "Se préparer",
     "section": "S’organiser",
     "text": "S’organiser\n\nLe deuxième aspect est l’organisation personnelle. Combien de temps peut-on allouer, à quel moment, à quelle fréquence. Également, comment va-t-on gérer la liste de cours, ses notes d’apprentissage et sa base de connaissance. Papier ? numérique ? utilisation d’appli ? Le plus important est d’être à l’aise et que cela soit le plus accessible possible pour que cela ne représente pas une charge mentale en plus de l’apprentissage lui-même.",
     "crumbs": [
-      "📑 Le guide",
-      "1. Se préparer"
+      "▶️ Les étapes",
+      "1. Préciser ses objectifs"
     ]
   },
   {
-    "objectID": "fr/01-se-preparer/index.html#pret-passer-à-la-suite",
-    "href": "fr/01-se-preparer/index.html#pret-passer-à-la-suite",
+    "objectID": "fr/01-preciser-ses-objectifs/index.html#pret-passer-à-la-suite",
+    "href": "fr/01-preciser-ses-objectifs/index.html#pret-passer-à-la-suite",
     "title": "Se préparer",
     "section": "Pret ? Passer à la suite",
     "text": "Pret ? Passer à la suite\n\nPréciser ses objectifs\n\n\n\n\n Laisser un commentaire",
     "crumbs": [
-      "📑 Le guide",
-      "1. Se préparer"
+      "▶️ Les étapes",
+      "1. Préciser ses objectifs"
     ]
   },
   {
@@ -140,7 +179,7 @@
     "href": "fr/index.html",
     "title": "Accueil",
     "section": "",
-    "text": "Image en pleine résolution \n\nCe site présente un guide pour apprendre efficacement par soi-même. Il s’agit d’un recueil de bonnes pratiques, basé en bonne partie sur le cours en ligne du Dr Oakley et complété par d’autres, organisé par étape pour guider l’apprentissage personnel.\nÀ l’ère de l’IA, apprendre avec agilité est une compétence clé pour suivre l’évolution rapide des pratiques et des métiers. Savoir gérer son propre apprentissage devient alors une compétence du même ordre que savoir s’organiser ou savoir communiquer sur ses missions.\nL’objectif de ce guide est de donner un cadre visuel pour servir de repère et partager les bonnes pratiques, en incluant les apports de l’IA pour cela. La vocation de ce guide est d’être évolutif afin de s’adapter et d’être amélioré autant que nécessaire par retour d’expérience.\n\nPret ? Commencez par le tour d’horizon pour une vue d’ensemble",
+    "text": "Ce site présente un guide pour apprendre efficacement par soi-même. Il s’agit d’un recueil de bonnes pratiques sous forme de carte mentale (mindmap), organisé par étape pour guider l’apprentissage.\nCliquer sur les étapes de l’image ci-dessous, ou en savoir plus sur le guide. Voir aussi comment contribuer.",
     "crumbs": [
       "🏠 Accueil"
     ]
