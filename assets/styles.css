@@ -1,0 +1,73 @@
+/* Importation de la police type manuscrit */
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+/*
+body {
+  font-family: 'Architects Daughter', cursive;
+  line-height: 1.6;
+}
+h1, h2, h3 {
+  color: #2c3e50;
+  border-bottom: 2px dashed #bdc3c7;
+}
+*/
+
+/* Styles communs pour les manuscrits */
+.manuscrit-yellow,
+.manuscrit-white,
+.manuscrit-blue {
+    font-family: 'Architects Daughter', cursive;
+    color: #1e1e1e !important;
+    border: 2px solid #1e1e1e;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    line-height: 1;
+}
+
+/* Styles spécifiques - Version jaune */
+.manuscrit-yellow {
+    background-color: #ffec99;
+    border-radius: 50%;
+    font-size: 1.1em;
+    padding: 15px 20px;
+}
+
+/* Styles spécifiques - Version blanche */
+.manuscrit-white {
+    background-color: #ffffff;
+    border-radius: 15px;
+    font-size: 0.95em;
+    padding: 5px 10px;
+}
+
+/* Styles spécifiques - Version bleue */
+.manuscrit-blue {
+    background-color: #a8daff;
+    border-radius: 15px;
+    font-size: 1.1em;
+    padding: 10px 15px;
+}
+
+/* Supprime la marge des paragraphes générés par Quarto */
+.manuscrit-yellow p,
+.manuscrit-white p,
+.manuscrit-blue p {
+    margin: 0 !important; 
+    padding: 0 !important;
+}
+
+/* Supprime le souligné des liens (par défaut ET au survol initialement) */
+.manuscrit-yellow a,
+.manuscrit-white a,
+.manuscrit-blue a {
+    text-decoration: none !important;
+    color: #1e1e1e !important;
+}
+
+/* Ajoute le soulignement UNIQUEMENT au survol */
+.manuscrit-yellow a:hover,
+.manuscrit-white a:hover,
+.manuscrit-blue a:hover {
+    text-decoration: underline !important;
+}
