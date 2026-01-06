@@ -1,31 +1,48 @@
 ---
-title: "Se préparer"
-description: "Are you ready ?"
+title: "Préciser ses objectifs"
+description: "Carte globale"
 #format: revealjs
+format:
+  html:
+    css: ../../assets/styles.css
+    #mainfont: "Architects Daughter"
 ---
 
-## Points clés
+[![](../00-presentation/images/mindmap-basic-no-icon.png){fig-align="center" width="400"}](../index.qmd)
 
-![](images/se-preparer-fullsize2.png){style="display:block; margin:auto;" width="600"}
+## Actions clés
 
-Pour se préparer, avant de se lancer dans un apprentissage, deux aspects sont à considérer: sa motivation (l’état d’esprit) et l’organisation pour les apprentissages. 
+::: {.ovale-main}
+[Définir le but](#définir-le-but){.manuscrit}
+:::
+
+::: {.ovale-main}
+[Se projeter](#se-projeter){.manuscrit}
+:::
 
 
-## Se motiver
+<br>
+Avant de se lancer dans un apprentissage, l'objectif doit être clair. Pour cela, il s'agit de définir précisemment le **but de l'apprentissage**, et de **se projeter** dans l'avenir pour cibler le résultat attendu.
 
-![](images/se-motiver-fullsize.png){style="display:block; margin:auto;" width="600"}
 
-Le premier aspect, le plus important car c’est le moteur personnel de l'apprentissage”, c'est l’état d’esprit et la motivation. Pour cela, le but de l’apprentissage doit être clair. Le but est la destination et l’apprentissage, le voyage. 
 
-Pour ce dernier, persévérance et adaptation sont les capacités clés pour réussir (s'adapter = être capable de remettre en question ses connaissances passées).
 
-## S'organiser
 
-![](images/s-organiser-fullsize.png){style="display:block; margin:auto;" width="600"}
+## Bonnes Pratiques
 
-Le deuxième aspect est l’organisation personnelle. Combien de temps peut-on allouer, à quel moment, à quelle fréquence. Également, comment va-t-on gérer la liste de cours, ses notes d’apprentissage et sa base de connaissance. Papier ? numérique ? utilisation d’appli ? Le plus important est d’être à l’aise et que cela soit le plus accessible possible pour que cela ne  représente pas une charge mentale en plus de l’apprentissage lui-même.
+::: {.ovale-main #définir-le-but}
+[Définir le but]{.manuscrit}
+:::
 
-## Pret ? Passer à la suite
-* ### Préciser ses objectifs
+![](images/definir-le-but.png){style="display:block; margin:auto;" width="400"}
+
+<br>
+
+::: {.ovale-main #se-projeter}
+[Se projeter]{.manuscrit}
+:::
+
+
+![](images/se-projeter.png){style="display:block; margin:auto;" width="400"}
 
 {{< include /fr/_commentaires.qmd >}}
